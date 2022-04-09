@@ -8,7 +8,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "flutter.js": "3688efe0a39e59781b4f95efbd6b5b62",
-"main.dart.js": "3bc20bf2d42248d8a4f130a18c8c5d54",
+"main.dart.js": "fb6276a5ed74c6ca6ea237ffb4ffcdbe",
 "version.json": "4da5dd59dc86fd95c6843e6a5f3075b6",
 "assets/assets/fonts/Aliey-BoldItalic.otf": "f2f763b93b892fe51660c0600b141cf6",
 "assets/assets/fonts/Aliey-Bold.otf": "ec3d3b9ece5e94b4004883dded897cf6",
@@ -18,7 +18,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/AssetManifest.json": "a6fdce77610ee3365dff2ffa1d13d327",
 "assets/FontManifest.json": "e95f756239614f1144acbbc89547c04d",
-"assets/NOTICES": "b83d6962e7a84853487c9bd007e595e2",
+"assets/NOTICES": "c7960569144dffff6a18c23746e9f4ec",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -26,8 +26,8 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index%20copy.html": "16fbc507bf6b1b9a4998919c41972e9c",
 "index-old.html": "a8ded0a6b8c439c14360a2251df84189",
-"index.html": "57c8b317178e779de889ed9f50b2c671",
-"/": "57c8b317178e779de889ed9f50b2c671",
+"index.html": "232c90f132107d57e9a7cb02fc314ed7",
+"/": "232c90f132107d57e9a7cb02fc314ed7",
 "manifest.json": "2a465facf2597639b4febc1170e6c07a"
 };
 
