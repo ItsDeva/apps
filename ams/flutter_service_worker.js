@@ -8,7 +8,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "flutter.js": "3688efe0a39e59781b4f95efbd6b5b62",
-"main.dart.js": "5849a29b77f8e9f808f41883a1760445",
+"main.dart.js": "11190d55d4ae14f73a4ab703ed9d0f67",
 "version.json": "d252d0d107f4269d84b230f6d6849767",
 "assets/assets/fonts/Aliey-BoldItalic.otf": "f2f763b93b892fe51660c0600b141cf6",
 "assets/assets/fonts/Aliey-Bold.otf": "ec3d3b9ece5e94b4004883dded897cf6",
@@ -26,7 +26,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/AssetManifest.json": "73051cd6f767a996e8f650c71ddea967",
 "assets/FontManifest.json": "e95f756239614f1144acbbc89547c04d",
-"assets/NOTICES": "ce5634f6b0c256cd608b9785dfb9f005",
+"assets/NOTICES": "c298e619f06c9943fe008581dc6b2db5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -34,9 +34,10 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index%20copy.html": "16fbc507bf6b1b9a4998919c41972e9c",
 "index-old.html": "a8ded0a6b8c439c14360a2251df84189",
-"index.html": "fd8b4166142342605381013180147c0a",
-"/": "fd8b4166142342605381013180147c0a",
-"manifest.json": "2a465facf2597639b4febc1170e6c07a"
+"index.html": "57260d5ef3804ed0d9d1e2e053022b25",
+"/": "57260d5ef3804ed0d9d1e2e053022b25",
+"manifest.json": "2a465facf2597639b4febc1170e6c07a",
+"jsQR.js": "d54b99cd32c7a3c35dc7df755ee1e137"
 };
 
 // The application shell files that are downloaded before a service worker can
