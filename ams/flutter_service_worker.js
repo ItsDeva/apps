@@ -8,7 +8,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "flutter.js": "3688efe0a39e59781b4f95efbd6b5b62",
-"main.dart.js": "883874a733a9eb9147455d8999077112",
+"main.dart.js": "e9da1def2538859cdd297500b756de15",
 "version.json": "8dca12d7032e403aad1c2897a852bc95",
 "assets/assets/fonts/Aliey-BoldItalic.otf": "f2f763b93b892fe51660c0600b141cf6",
 "assets/assets/fonts/Aliey-Bold.otf": "ec3d3b9ece5e94b4004883dded897cf6",
@@ -34,8 +34,8 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index%20copy.html": "16fbc507bf6b1b9a4998919c41972e9c",
 "index-old.html": "a8ded0a6b8c439c14360a2251df84189",
-"index.html": "92e4fed12e3ac6cffa8d5bc3b22bb27f",
-"/": "92e4fed12e3ac6cffa8d5bc3b22bb27f",
+"index.html": "d7892250ad3a8bf9a98f13275f9a2357",
+"/": "d7892250ad3a8bf9a98f13275f9a2357",
 "manifest.json": "2a465facf2597639b4febc1170e6c07a",
 "jsQR.js": "d54b99cd32c7a3c35dc7df755ee1e137"
 };
