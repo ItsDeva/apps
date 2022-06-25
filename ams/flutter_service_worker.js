@@ -37,8 +37,8 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index%20copy.html": "16fbc507bf6b1b9a4998919c41972e9c",
 "index-old.html": "a8ded0a6b8c439c14360a2251df84189",
-"index.html": "926b54af1fc5262d9b3f50dd19b79841",
-"/": "926b54af1fc5262d9b3f50dd19b79841",
+"index.html": "f2a6f74792db21d5abae2b7be6826ef2",
+"/": "f2a6f74792db21d5abae2b7be6826ef2",
 "manifest.json": "2a465facf2597639b4febc1170e6c07a",
 "jsQR.js": "d54b99cd32c7a3c35dc7df755ee1e137"
 };
