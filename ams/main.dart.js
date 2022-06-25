@@ -46092,7 +46092,7 @@ o.a(J.c(A.a(A.a(p.b,"_helper").b,"list"),c7)).gcu().hc("TAX INVOICE",A.ik(A.a(q.
 A.a(c.a,"_helper").y=!0
 d=c.gbW()
 c7=c.gc2()
-o.a(J.c(A.a(A.a(d.b,"_helper").b,"list"),c7)).gcu().hc("INVOICE NUMBER: "+a1,A.ik(A.a(q.x,"kFont"),14,null),new A.y(20,190,20+f,230),A.ii(),A.d2(B.a7,B.a0,0,0,0))
+o.a(J.c(A.a(A.a(d.b,"_helper").b,"list"),c7)).gcu().hc("INVOICE NUMBER: "+a1,A.ik(A.a(q.as,"ubuntuMonoBoldFont"),14,null),new A.y(20,190,20+f,230),A.ii(),A.d2(B.a7,B.a0,0,0,0))
 A.a(c.a,"_helper").y=!0
 c7=c.gbW()
 d=c.gc2()
