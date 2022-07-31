@@ -8,8 +8,8 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "flutter.js": "3688efe0a39e59781b4f95efbd6b5b62",
-"main.dart.js": "7515ceac495c2f0058cf0a2d3cb2ddbc",
-"version.json": "5c486810a7c19d0670ff88951cb19dae",
+"main.dart.js": "f16f4ac18121b4e9b2c065d327496b4e",
+"version.json": "39e71bc8ed1adcd7a103875c6097bcc4",
 "assets/assets/fonts/K.ttf": "f4ca7b52e1cc9fe0df9958deaafe0cc7",
 "assets/assets/fonts/Oxygen-Regular.ttf": "d5ea9b254845291bc569162d298ac3f6",
 "assets/assets/fonts/JetBrainsMono-Bold.ttf": "ffe19343aa6843ee1fcf9c690457d122",
@@ -41,17 +41,18 @@ const RESOURCES = {
 "assets/AssetManifest.json": "5f3d438ecfa6e003281e80831ecfe40c",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/NOTICES": "7571112f35c2824c3c3233d88ea1a2ba",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"favicon.png": "b1713237c12b3442d7a8127929491a73",
+"icons/Icon-192.png": "5ea07449a59e0bde22c09e976ba383d7",
+"icons/Icon-512.png": "928570e08f5f0d8f22785bc158d6ad05",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index%20copy.html": "16fbc507bf6b1b9a4998919c41972e9c",
-"index-old.html": "a8ded0a6b8c439c14360a2251df84189",
-"index.html": "2a1c382846aadec315c347f1cb2eb4aa",
-"/": "2a1c382846aadec315c347f1cb2eb4aa",
+"index%20copy.html": "61dd2e3f0a5e7c31a814e57d12762df0",
+"index-old.html": "f566de65c314d3ae6f1537d0183c8fdd",
+"index.html": "1995bf7fa42646f065e05d7a4cef6eef",
+"/": "1995bf7fa42646f065e05d7a4cef6eef",
 "manifest.json": "2a465facf2597639b4febc1170e6c07a",
-"jsQR.js": "d54b99cd32c7a3c35dc7df755ee1e137"
+"jsQR.js": "d54b99cd32c7a3c35dc7df755ee1e137",
+"favicon.ico": "6f96fa36acb4cc57e86bdd79e7342a06"
 };
 
 // The application shell files that are downloaded before a service worker can
