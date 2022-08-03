@@ -50,20 +50,22 @@ const RESOURCES = {
 "assets/AssetManifest.json": "2eb4c39ae85aed377cf0b9afc981a678",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/NOTICES": "0cd116574aa1b3a932490be24a2928e6",
-"favicon.png": "b21070fac9739d0d214ccb2e906b94da",
-"icons/Icon-192.png": "b21070fac9739d0d214ccb2e906b94da",
+"favicon.png": "4a85b12ee92b26d14ba68c045afb86b0",
+"icons/Icon-192.png": "4a85b12ee92b26d14ba68c045afb86b0",
 "icons/Icon-512.png": "928570e08f5f0d8f22785bc158d6ad05",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-192old.png": "5ea07449a59e0bde22c09e976ba383d7",
+"icons/Icon-192bg.png": "b21070fac9739d0d214ccb2e906b94da",
 "index%20copy.html": "61dd2e3f0a5e7c31a814e57d12762df0",
 "index-old.html": "f566de65c314d3ae6f1537d0183c8fdd",
-"index.html": "810aa668eb3832369b703a96a5eaefa9",
-"/": "810aa668eb3832369b703a96a5eaefa9",
+"index.html": "08f04606f3ec74bef216a29a9ba1f36d",
+"/": "08f04606f3ec74bef216a29a9ba1f36d",
 "manifest.json": "2a465facf2597639b4febc1170e6c07a",
 "jsQR.js": "d54b99cd32c7a3c35dc7df755ee1e137",
-"favicon.ico": "6f96fa36acb4cc57e86bdd79e7342a06",
-"faviconold.png": "b1713237c12b3442d7a8127929491a73"
+"favicon.ico": "f474a37e9352517d37e8bb14abecedad",
+"android-chrome-192x192.png": "4a85b12ee92b26d14ba68c045afb86b0",
+"android-chrome-512x512.png": "b619b9265ef458b743e7ad98a340e97d"
 };
 
 // The application shell files that are downloaded before a service worker can
