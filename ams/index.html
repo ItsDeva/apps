@@ -39,12 +39,9 @@
 </head>
 
 <body>
-  <!-- This script installs service_worker.js to provide PWA functionality to
-       application. For more information, see:
-       https://developers.google.com/web/fundamentals/primers/service-workers -->
        <script src="jsQR.js"></script>
   <script>
-    var serviceWorkerVersion = '2660348976';
+    var serviceWorkerVersion = '3102076905';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
@@ -58,11 +55,7 @@
     }
 
     if ('serviceWorker' in navigator) {
-      // Service workers are supported. Use them.
       window.addEventListener('load', function () {
-        // Wait for registration to finish before dropping the <script> tag.
-        // Otherwise, the browser will load the script multiple times,
-        // potentially different versions.
         var serviceWorkerUrl = 'flutter_service_worker.js?v=' + serviceWorkerVersion;
         navigator.serviceWorker.register(serviceWorkerUrl)
           .then((reg) => {
@@ -75,24 +68,16 @@
               });
             }
             if (!reg.active && (reg.installing || reg.waiting)) {
-              // No active web worker and we have installed or are installing
-              // one for the first time. Simply wait for it to activate.
               waitForActivation(reg.installing || reg.waiting);
             } else if (!reg.active.scriptURL.endsWith(serviceWorkerVersion)) {
-              // When the app updates the serviceWorkerVersion changes, so we
-              // need to ask the service worker to update.
               console.log('New service worker available.');
               reg.update();
               waitForActivation(reg.installing);
             } else {
-              // Existing service worker is still good.
               console.log('Loading app from service worker.');
               loadMainDartJs();
             }
           });
-
-        // If service worker doesn't succeed in a reasonable amount of time,
-        // fallback to plaint <script> tag.
         setTimeout(() => {
           if (!scriptLoaded) {
             console.warn(
@@ -103,31 +88,10 @@
         }, 4000);
       });
     } else {
-      // Service workers not supported. Just drop the <script> tag.
+    
       loadMainDartJs();
     }
   </script>
-  <!-- <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
-     <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-analytics.js"></script>
-     <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
-     <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
-     <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-storage.js"></script>
-
-   <script>
-     var firebaseConfig = {
-      apiKey: "AIzaSyCVo3BGa449tkQ8-d1WWq7E0Y394vsc7qQ",
-      authDomain: "sams-backend.firebaseapp.com",
-      databaseURL: "https://sams-backend.firebaseio.com",
-      projectId: "sams-backend",
-      storageBucket: "sams-backend.appspot.com",
-      messagingSenderId: "684879158948",
-      appId: "1:684879158948:web:67b3209371780b5dff1031"
-    };
-
-    // Initialize Firebase
-    firebase.initializeApp(firebaseConfig);
-    firebase.analytics();
-  </script> -->
 </body>
 
 </html>
