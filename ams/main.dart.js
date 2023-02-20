@@ -47592,127 +47592,124 @@ p=c.gc1()
 p=o.a(J.c(A.a(A.a(a3.b,"_helper").b,"list"),p)).gcA()
 a3=A.a(q.e,"bill").f.e
 d=a3==null?"-":a3
-a3=A.hZ(B.b1,11,B.p)
-a4=A.hY()
-a5=A.a(q.e,"bill").f.e.length>80?60:20
-p.h0(" "+d,a3,new A.y(50,300,50+(f-50),300+a5),a4,A.cV(B.ae,B.a2,1,0,0,B.J))
-a4=A.cV(B.ae,B.i4,0,5,0,B.J)
-a6=A.j(A.i_(A.a(q.ax,"ubuntuMonoBoldFont"),12,null),a4)
-a4=A.cV(B.d8,B.i4,0,5,0,B.J)
-a7=A.j(A.i_(A.a(q.y,"jetBrainsMonoBoldFont"),11,null),a4)
-a4=A.cV(B.ae,B.i4,0,5,0,B.J)
-a8=A.j(A.i_(A.a(q.y,"jetBrainsMonoBoldFont"),11,null),a4)
-a4=A.a(A.a(a8.z,"borders").c,"bottom")
-a5=A.f2()
-A.a(a4.a,"_helper")
-a4.d=a5
-p=A.a(A.a(a8.z,"borders").a,"left")
+p.h0(" "+d,A.hZ(B.b1,11,B.p),new A.y(50,300,50+(f-50),370),A.hY(),A.cV(B.ae,B.a2,1,0,0,B.J))
+d=A.cV(B.ae,B.i4,0,5,0,B.J)
+a4=A.j(A.i_(A.a(q.ax,"ubuntuMonoBoldFont"),12,null),d)
+d=A.cV(B.d8,B.i4,0,5,0,B.J)
+a5=A.j(A.i_(A.a(q.y,"jetBrainsMonoBoldFont"),11,null),d)
+d=A.cV(B.ae,B.i4,0,5,0,B.J)
+a6=A.j(A.i_(A.a(q.y,"jetBrainsMonoBoldFont"),11,null),d)
+d=A.a(A.a(a6.z,"borders").c,"bottom")
+p=A.f2()
+A.a(d.a,"_helper")
+d.d=p
+p=A.a(A.a(a6.z,"borders").a,"left")
 d=A.f2()
 A.a(p.a,"_helper")
 p.d=d
-p=A.a(A.a(a8.z,"borders").b,"right")
+p=A.a(A.a(a6.z,"borders").b,"right")
 d=A.f2()
 A.a(p.a,"_helper")
 p.d=d
 p=A.cV(B.d8,B.a2,0,5,0,B.J)
-a9=A.j(A.i_(A.a(q.ay,"ubuntuMonoRegularFont"),10,null),p)
-b0=new A.yx()
-b0.a=new A.GM(b0)
-p=new A.ajE(b0)
-b0.d=p
+a7=A.j(A.i_(A.a(q.ay,"ubuntuMonoRegularFont"),10,null),p)
+a8=new A.yx()
+a8.a=new A.GM(a8)
+p=new A.ajE(a8)
+a8.d=p
 A.a(p,"_helper").as=new A.h0(0,0)
-A.a(b0.d,"_helper").w=!1
-A.a(b0.d,"_helper").z=!1
-A.a(b0.d,"_helper").r=!0
-b0.x=A.a(b0.d,"_helper").Q=!1
-b0.y=!0
-b0.z=new A.bj(0,0,0,0)
-A.a(b0.d,"_helper").f=!1
-A.a(b0.d,"_helper").e=!1
-p=A.a(b0.d,"_helper")
+A.a(a8.d,"_helper").w=!1
+A.a(a8.d,"_helper").z=!1
+A.a(a8.d,"_helper").r=!0
+a8.x=A.a(a8.d,"_helper").Q=!1
+a8.y=!0
+a8.z=new A.bj(0,0,0,0)
+A.a(a8.d,"_helper").f=!1
+A.a(a8.d,"_helper").e=!1
+p=A.a(a8.d,"_helper")
 if(p.d==null)p.d=!1
-A.a(b0.d,"_helper").c=!1
-A.a(b0.d,"_helper").y=!1
-A.a(b0.d,"_helper").ax=0
-A.a(b0.d,"_helper").at=0
-A.a(b0.d,"_helper").cx=A.b([],t.t)
-A.a(b0.d,"_helper").CW=0
-A.a(b0.d,"_helper").x=!1
-A.a(b0.d,"_helper").ay=A.hZ(B.b1,8,null)
-A.a(b0.d,"_helper").b=A.aQ1()
-b0.gjz(b0).ass(0,5)
-p=b0.gjz(b0).c_(0)
+A.a(a8.d,"_helper").c=!1
+A.a(a8.d,"_helper").y=!1
+A.a(a8.d,"_helper").ax=0
+A.a(a8.d,"_helper").at=0
+A.a(a8.d,"_helper").cx=A.b([],t.t)
+A.a(a8.d,"_helper").CW=0
+A.a(a8.d,"_helper").x=!1
+A.a(a8.d,"_helper").ay=A.hZ(B.b1,8,null)
+A.a(a8.d,"_helper").b=A.aQ1()
+a8.gjz(a8).ass(0,5)
+p=a8.gjz(a8).c_(0)
 A.a(p.a,"_helper").b=!0
 A.a(p.a,"_helper").c=130
-b0.gdt(b0).acc(1)
-b1=b0.gdt(b0).pe(0)
-p=b1.gbr(b1).C(0).as=q.x
-b1.gbr(b1).C(1).as=p
-b1.gbr(b1).C(2).as=p
-b1.gbr(b1).C(3).as=p
-b1.gbr(b1).C(4).as=p
-p=b1.gbr(b1).C(0)
+a8.gdt(a8).acc(1)
+a9=a8.gdt(a8).pe(0)
+p=a9.gbr(a9).C(0).as=q.x
+a9.gbr(a9).C(1).as=p
+a9.gbr(a9).C(2).as=p
+a9.gbr(a9).C(3).as=p
+a9.gbr(a9).C(4).as=p
+p=a9.gbr(a9).C(0)
 p.r="Description"
 p.cH("Description")
-p=b1.gbr(b1).C(1)
+p=a9.gbr(a9).C(1)
 p.r="HSN/SAC"
 p.cH("HSN/SAC")
-p=b1.gbr(b1).C(2)
+p=a9.gbr(a9).C(2)
 p.r="Price"
 p.cH("Price")
-p=b1.gbr(b1).C(3)
+p=a9.gbr(a9).C(3)
 p.r="GST"
 p.cH("GST")
-p=b1.gbr(b1).C(4)
+p=a9.gbr(a9).C(4)
 p.r="Amount"
 p.cH("Amount")
-b2=b0.gha(b0).ib(0)
-b2.gbr(b2).C(0).as=a6
+b0=a8.gha(a8).ib(0)
+b0.gbr(b0).C(0).as=a4
 p=A.a(q.e,"bill").r.d
 p.toString
 d=A.a(q.e,"bill").r.b
 d.toString
 a3=A.a(q.e,"bill").r.e
 a3.toString
-a4=A.a(q.e,"bill").r.w
-a4.toString
-if(a4!==""){a4=A.a(q.e,"bill").r.w
-a4="IMEI 1         \n"+(a4==null?"":a4)+"\n"}else a4=""
-a5=A.a(q.e,"bill").r.x
-a5.toString
-if(a5!==""){a5=A.a(q.e,"bill").r.x
-a5="IMEI 2         \n"+(a5==null?"":a5)+"\n"}else a5=""
+b1=A.a(q.e,"bill").r.w
+b1.toString
+if(b1!==""){b1=A.a(q.e,"bill").r.w
+b1="IMEI 1         \n"+(b1==null?"":b1)+"\n"}else b1=""
+b2=A.a(q.e,"bill").r.x
+b2.toString
+if(b2!==""){b2=A.a(q.e,"bill").r.x
+b2="IMEI 2         \n"+(b2==null?"":b2)+"\n"}else b2=""
 b3=A.a(q.e,"bill").r.y
 b3.toString
 b3=b3!==""?"Serial No:\n"+A.h(A.a(q.e,"bill").r.y):""
-b4=p+"\n"+d+"\n"+a3+"\n\n"+a4+a5+b3
-b3=b2.gbr(b2).C(0)
+b4=p+"\n"+d+"\n"+a3+"\n\n"+b1+b2+b3
+b3=b0.gbr(b0).C(0)
 b3.r=b4
 b3.cH(b4)
-b2.gbr(b2).C(1).as=a6
-b3=b2.gbr(b2).C(1)
-a5=A.a(q.e,"bill").r.r
-p=a5==null?"-":a5
+b0.gbr(b0).C(1).as=a4
+b3=b0.gbr(b0).C(1)
+b2=A.a(q.e,"bill").r.r
+p=b2==null?"-":b2
 b3.r=p
 b3.cH(p)
-b2.gbr(b2).C(2).as=a6
-p=b2.gbr(b2).C(2)
+b0.gbr(b0).C(2).as=a4
+p=b0.gbr(b0).C(2)
 b3=A.rg(B.e.i(q.d))
 p.r=b3
 p.cH(b3)
-b2.gbr(b2).C(3).as=a6
-b3=b2.gbr(b2).C(3)
+b0.gbr(b0).C(3).as=a4
+b3=b0.gbr(b0).C(3)
 p=A.rg(B.e.i(q.f+q.r))
 b3.r=p
 b3.cH(p)
-b2.gbr(b2).C(4).as=a6
-p=b2.gbr(b2).C(4)
+b0.gbr(b0).C(4).as=a4
+p=b0.gbr(b0).C(4)
 b3=A.rg(J.b_(A.a(q.e,"bill").r.as))
 p.r=b3
 p.cH(b3)
-b2.gbr(b2).C(0).sqe(0,2)
-b5=b0.gha(b0).ib(0)
-b5.gbr(b5).C(0).as=a6
+b0.gbr(b0).C(0).sqe(0,2)
+b5=a8.gha(a8).ib(0)
+b5.gbr(b5).C(0).as=a4
 b3=b5.gbr(b5).C(0)
 p=A.a(q.e,"bill").r.w
 p.toString
@@ -47721,32 +47718,32 @@ d.toString
 d=p+"\n"+d
 b3.r=d
 b3.cH(d)
-b5.gbr(b5).C(3).as=a9
+b5.gbr(b5).C(3).as=a7
 d=b5.gbr(b5).C(3)
 b3="\nCGST:"+A.rg(B.e.i(q.f))+"\nSGST:"+A.rg(B.e.i(q.r))
 d.r=b3
 d.cH(b3)
-b6=b0.gha(b0).ib(0)
+b6=a8.gha(a8).ib(0)
 b6.gbr(b6).C(0).spw(0,3)
 b6.gbr(b6).C(0).sqe(0,2)
-b6.gbr(b6).C(3).as=a6
+b6.gbr(b6).C(3).as=a4
 b3=b6.gbr(b6).C(3)
 b3.r="Discount"
 b3.cH("Discount")
-b6.gbr(b6).C(4).as=a6
+b6.gbr(b6).C(4).as=a4
 b3=b6.gbr(b6).C(4)
 d=A.rg(J.b_(A.a(q.e,"bill").x))
 b3.r=d
 b3.cH(d)
-b7=b0.gha(b0).ib(0)
+b7=a8.gha(a8).ib(0)
 A.a(b7.a,"_helper").w=!0
 b7.c=30
 b7.gbr(b7).C(0).spw(0,3)
-b7.gbr(b7).C(3).as=a6
+b7.gbr(b7).C(3).as=a4
 d=b7.gbr(b7).C(3)
 d.r="Total"
 d.cH("Total")
-b7.gbr(b7).C(4).as=a6
+b7.gbr(b7).C(4).as=a4
 d=b7.gbr(b7).C(4)
 b3=A.a(q.e,"bill").r.as
 b3.toString
@@ -47754,9 +47751,9 @@ p=A.a(q.e,"bill").x
 p=A.rg(B.e.i(b3-(p==null?0:p)))
 d.r=p
 d.cH(p)
-b8=b0.gha(b0).ib(0)
+b8=a8.gha(a8).ib(0)
 b8.gbr(b8).C(0).spw(0,5)
-b8.gbr(b8).C(0).as=a7
+b8.gbr(b8).C(0).as=a5
 p=b8.gbr(b8).C(0)
 d=A.a(q.e,"bill").r.as
 d.toString
@@ -47772,20 +47769,20 @@ else{d=c0[1]
 d=d!=="0"?c2[A.ao(d,null)]+" ":""
 a3=c0[2]
 a3=a3!=="0"?c1[A.ao(a3,null)]+"crore ":""
-a4=c0[1]!=="0"&&c0[2]==="0"?"crore ":""
-c3=c3+d+a3+a4}if(A.ao(c0[3]+c0[4],null)<20&&A.ao(c0[3]+c0[4],null)>9)c3+=c1[A.ao(c0[3]+c0[4],null)]+"lakh "
+b1=c0[1]!=="0"&&c0[2]==="0"?"crore ":""
+c3=c3+d+a3+b1}if(A.ao(c0[3]+c0[4],null)<20&&A.ao(c0[3]+c0[4],null)>9)c3+=c1[A.ao(c0[3]+c0[4],null)]+"lakh "
 else{d=c0[3]
 d=d!=="0"?c2[A.ao(d,null)]+" ":""
 a3=c0[4]
 a3=a3!=="0"?c1[A.ao(a3,null)]+"lakh ":""
-a4=c0[3]!=="0"&&c0[4]==="0"?"lakh ":""
-c3=c3+d+a3+a4}if(A.ao(c0[5]+c0[6],null)<20&&A.ao(c0[5]+c0[6],null)>9)c3+=c1[A.ao(c0[5]+c0[6],null)]+"thousand "
+b1=c0[3]!=="0"&&c0[4]==="0"?"lakh ":""
+c3=c3+d+a3+b1}if(A.ao(c0[5]+c0[6],null)<20&&A.ao(c0[5]+c0[6],null)>9)c3+=c1[A.ao(c0[5]+c0[6],null)]+"thousand "
 else{d=c0[5]
 d=d!=="0"?c2[A.ao(d,null)]+" ":""
 a3=c0[6]
 a3=a3!=="0"?c1[A.ao(a3,null)]+"thousand ":""
-a4=c0[5]!=="0"&&c0[6]==="0"?"thousand ":""
-c3=c3+d+a3+a4}d=c0[7]
+b1=c0[5]!=="0"&&c0[6]==="0"?"thousand ":""
+c3=c3+d+a3+b1}d=c0[7]
 c3+=d!=="0"?c1[A.ao(d,null)]+"hundred ":""
 if(A.ao(c0[8]+c0[9],null)<20&&A.ao(c0[8]+c0[9],null)>9)c3+=c1[A.ao(c0[8]+c0[9],null)]
 else{d=c0[8]
@@ -47839,14 +47836,14 @@ c3=c3+d+a3}}break
 default:c3="not acceptable format"}d=("Amount in words: Rupees "+c3+"Only").toUpperCase()
 p.r=d
 p.cH(d)
-c6=b0.gha(b0).ib(0)
+c6=a8.gha(a8).ib(0)
 c6.gbr(c6).C(0).spw(0,5)
-c6.gbr(c6).C(0).as=a8
+c6.gbr(c6).C(0).as=a6
 d=c6.gbr(c6).C(0)
 p=("Payment Mode: "+A.h(A.a(q.e,"bill").d)).toUpperCase()
 d.r=p
 d.cH(p)
-b0.avC(B.VW,c)
+a8.avC(B.VW,c)
 A.a(c.a,"_helper").y=!0
 p=c.gbP()
 d=c.gc1()
